@@ -131,7 +131,10 @@ A proposta aqui é reduzir fricção e aumentar consciência.
 - 📈 sugestão automática de poupança baseada na sobra do mês  
 - 📊 dashboard com gráfico e legenda  
 - 🔔 notificações leves para confirmação de ações  
-- 🧠 insights baseados em comportamento 
+- 🧠 insights baseados em comportamento
+- 🧠 pipeline determinístico para decisões financeiras
+- ❤️ score de saúde financeira contextual
+- 💬 confirmação inteligente quando há ambiguidade
 
 ---
 
