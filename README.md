@@ -1,4 +1,4 @@
-# 💰 Grana.ai
+# 💰 Grana.ai — Assistente Financeiro com IA
 
 ![Status](https://img.shields.io/badge/status-active%20development-7C5CFF)
 ![Projeto](https://img.shields.io/badge/DIO-Lab%20Vibe%20Coding-blue)
