@@ -106,6 +106,21 @@ isso era meta
 
 O sistema entende o contexto e corrige automaticamente.
 
+### 4. Memória contextual e recorrência
+
+O assistente mantém memória do contexto recente para permitir:
+
+- correções naturais;
+- continuidade da conversa;
+- identificação de padrões recorrentes.
+
+Exemplos:
+
+```txt
+isso era meta
+era mercado
+```
+
 ---
 
 ## 🎯 O que esse projeto resolve
@@ -125,16 +140,17 @@ A proposta aqui é reduzir fricção e aumentar consciência.
 
 - 🧾 registro de gastos usando linguagem natural  
 - 🏷️ categorização automática (incluindo streaming e compras online)
-- 🤔 confirmação inteligente quando há baixa confiança na categorização
+- 🤔 confirmação inteligente para lançamentos ambíguos
 - 🎯 metas financeiras com acompanhamento de progresso  
-- 💰 contribuição para metas direto pela conversa  
+- 💰 contribuição para metas direto pela conversa
+- 🔁 memória de gastos e receitas recorrentes (MVP) 
 - 📈 sugestão automática de poupança baseada na sobra do mês  
-- 📊 dashboard com gráfico e legenda  
-- 🔔 notificações leves para confirmação de ações  
+- 📊 dashboard com gráfico e legenda
+- ❤️ score de saúde financeira contextual 
 - 🧠 insights baseados em comportamento
+- 🔔 notificações leves para confirmação de ações
 - 🧠 pipeline determinístico para decisões financeiras
-- ❤️ score de saúde financeira contextual
-- 💬 confirmação inteligente quando há ambiguidade
+
 
 ---
 
@@ -238,8 +254,12 @@ Melhorias:
 
 ### IA & Lógica Conversacional
 - Engenharia de prompts
-- Parser determinístico
-- Regras contextuais
+- Pipeline determinístico de decisão
+- Parser financeiro contextual
+- Merchant normalization
+- Context memory
+- Recurring memory (MVP)
+- Financial Health Score
 - Interpretação de linguagem natural
 
 ### Produto & UX
@@ -349,4 +369,4 @@ O Grana.ai combina conversa e visualização para simplificar o controle finance
 
 ## 👩‍💻 Sobre mim
 
-Projeto desenvolvido por Danieli Dutra como laboratório prático de UX, produto, IA conversacional e desenvolvimento full stack, com foco em experiências digitais centradas no usuário.
+Projeto desenvolvido por Danieli Dutra como laboratório prático de UX, produto, IA conversacional e desenvolvimento full stack, explorando como experiências financeiras podem se tornar mais simples, contextuais e humanas.
