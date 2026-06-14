@@ -304,15 +304,19 @@ Foi necessário definir regras claras de comportamento.
 
 ### 🧠 O que aprendi nesse processo
 
-A qualidade do resultado depende diretamente da clareza das instruções.
+A qualidade do resultado depende diretamente da clareza das decisões e regras do produto.
+
+Ao longo do desenvolvimento, percebi que construir com IA não reduz a necessidade de pensamento técnico, apenas muda a forma de trabalhar.
 
 Aprendi que:
 
-- regras específicas melhoram muito o resultado  
-- pequenos detalhes impactam diretamente a experiência  
-- iterar faz parte do processo  
+- regras específicas melhoram significativamente a qualidade do comportamento do agente;
+- pequenos detalhes de UX impactam diretamente a confiança e retenção;
+- linguagem natural exige arquitetura de decisão, não apenas prompts; 
+- iterar continuamente é parte essencial do desenvolvimento;
+- prototipação rápida acelera o aprendizado, mas escalabilidade exige maior controle técnico. 
 
-Construir com IA exigiu pensar como produto, não apenas como execução.
+O projeto deixou de ser apenas um experimento de interface e passou a se tornar um laboratório prático de produto, IA conversacional e engenharia de comportamento.
 
 ---
 
